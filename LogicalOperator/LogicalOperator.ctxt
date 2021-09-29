@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=LogicalOperator
+comment0.text=\n\ Write\ a\ description\ of\ LogicalOperator\ here.\n\ \n\ @author\ Filmon\n\ @version\ 09/28/2021\n
+comment1.params=arg
+comment1.target=void\ main(java.lang.String[])
+numComments=2
